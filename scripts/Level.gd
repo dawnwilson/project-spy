@@ -29,4 +29,4 @@ func updateLabel() -> void:
 
 
 func winLevel() -> void:
-	print("You Won!")
+	get_tree().change_scene("res://scenes/EndScreen.tscn")

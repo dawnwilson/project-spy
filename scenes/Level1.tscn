@@ -25,6 +25,10 @@ __meta__ = {
 [node name="Ladybug" parent="FindableObjects" instance=ExtResource( 3 )]
 position = Vector2( 408, 585 )
 
+[node name="Ladybug4" parent="FindableObjects" instance=ExtResource( 3 )]
+position = Vector2( 521, 990 )
+rotation = 0.319395
+
 [node name="Ladybug2" parent="FindableObjects" instance=ExtResource( 3 )]
 position = Vector2( 1356, 139 )
 rotation = 1.38405
